@@ -22,3 +22,7 @@ html, body {
   padding: 5px;
   text-align: center;
 }
+
+/* #calendar.manager .day li::after {
+  content: " Weight: 0";
+} */
